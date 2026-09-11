@@ -58,6 +58,12 @@ const Footer = ({ onBook }: FooterProps) => {
         </a>
       </div>
 
+      <nav className="footer-legal-links" aria-label="Legal">
+        <a href="/about">About</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Service</a>
+      </nav>
+
       <p className="footer-rights">
         © {new Date().getFullYear()} Delgender Communications | All Rights
         Reserved
