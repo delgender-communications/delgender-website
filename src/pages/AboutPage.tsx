@@ -1,4 +1,3 @@
-// internal
 import "./AboutPage.css";
 import { storyIntro, storySections, storyVision } from "../data/story";
 import team from "../data/team";
@@ -6,7 +5,7 @@ import team from "../data/team";
 const AboutPage = () => {
   return (
     <div className="app-container" id="top">
-      {/* Story */}
+      {/* story */}
       <section className="story-hero">
         <span className="section-label">Our Story</span>
         <h1 className="story-title">Why Delgender Communications exists</h1>
@@ -27,7 +26,7 @@ const AboutPage = () => {
         <p>{storyVision}</p>
       </section>
 
-      {/* Team */}
+      {/* team */}
       <section className="team" id="team">
         <span className="section-label">The People Behind It</span>
         <h2 className="section-title">Meet the Team</h2>
@@ -36,9 +35,9 @@ const AboutPage = () => {
           work with.
         </p>
 
-        <div className="team-grid">
+        <div className="team-list">
           {team.map((member) => (
-            <div className="team-card" key={member.name}>
+            <div className="team-row" key={member.name}>
               {member.photo && (
                 <img
                   src={member.photo}
@@ -46,8 +45,11 @@ const AboutPage = () => {
                   className="team-photo"
                 />
               )}
-              <h3>{member.name}</h3>
-              <p>{member.role}</p>
+
+              <div className="team-info">
+                <h3>{member.name}</h3>
+                <p>{member.role}</p>
+              </div>
             </div>
           ))}
         </div>
