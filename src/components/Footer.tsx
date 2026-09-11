@@ -1,5 +1,6 @@
 import "./Footer.css";
 import { FiInstagram, FiLinkedin, FiFacebook } from "react-icons/fi";
+import { Link } from "react-router-dom";
 import logoMark from "../assets/logo-mark.png";
 
 type FooterProps = {
@@ -59,9 +60,9 @@ const Footer = ({ onBook }: FooterProps) => {
       </div>
 
       <nav className="footer-legal-links" aria-label="Legal">
-        <a href="/about">About</a>
-        <a href="/privacy">Privacy Policy</a>
-        <a href="/terms">Terms of Service</a>
+        <Link to="/about">About</Link>
+        <Link to="/privacy">Privacy Policy</Link>
+        <Link to="/terms">Terms of Service</Link>
       </nav>
 
       <p className="footer-rights">

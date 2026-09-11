@@ -1,3 +1,4 @@
+// internal
 import "./AboutPage.css";
 import { storyIntro, storySections, storyVision } from "../data/story";
 import team from "../data/team";

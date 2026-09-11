@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 import "./Navbar.css";
 import logoMark from "../assets/logo-mark.png";
 
@@ -31,7 +32,7 @@ const Navbar = ({ onBook }: NavbarProps) => {
       <div className={`nav-backdrop${scrolled ? " show" : ""}`} />
 
       <header className={`navbar${scrolled ? " scrolled" : ""}`}>
-        <a href="/" className="nav-brand" onClick={handleNavClick}>
+        <Link to="/" className="nav-brand" onClick={handleNavClick}>
           <img
             src={logoMark}
             alt="Delgender Communications logo"
@@ -41,15 +42,15 @@ const Navbar = ({ onBook }: NavbarProps) => {
             DELGENDER
             <span className="nav-wordmark-sub">COMMUNICATIONS</span>
           </span>
-        </a>
+        </Link>
 
         <nav className={`nav-links${menuOpen ? " open" : ""}`}>
           <ul>
             {items.map((it) => (
               <li key={it.href}>
-                <a href={it.href} onClick={handleNavClick}>
+                <Link to={it.href} onClick={handleNavClick}>
                   {it.label}
-                </a>
+                </Link>
               </li>
             ))}
           </ul>
