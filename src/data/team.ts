@@ -19,12 +19,12 @@ const team: TeamMember[] = [
     photo: undefined,
   },
   {
-    name: "Masuku",
+    name: "Cordelia Masuku",
     role: "Co-founder & Chief Operating Officer",
     photo: undefined,
   },
   {
-    name: "Mbali",
+    name: "Mbali Tshabalala",
     role: "Chief Marketing Officer",
     photo: undefined,
   },
@@ -34,7 +34,7 @@ const team: TeamMember[] = [
     photo: undefined,
   },
   {
-    name: "Nhletelo",
+    name: "Nhletelo Nhlavathi",
     role: "Senior Backend Engineer",
     photo: undefined,
   },
