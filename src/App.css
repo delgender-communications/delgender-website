@@ -1,16 +1,3 @@
-.app-container {
-  width: 100%;
-  max-width: var(--content-max);
-  margin: 0 auto;
-  padding: 0 var(--content-pad);
-  flex: 1 0 auto;
-  text-align: center;
-}
-
-.accent-text {
-  color: var(--accent);
-}
-
 /* Hero */
 .hero {
   display: flex;

@@ -15,12 +15,12 @@ export type TeamMember = {
 const team: TeamMember[] = [
   {
     name: "Agender Mongwe",
-    role: "Founder & CEO",
+    role: "Founder & Chief Executive Officer",
     photo: undefined,
   },
   {
     name: "Masuku",
-    role: "Co-founder & COO",
+    role: "Co-founder & Chief Operating Officer",
     photo: undefined,
   },
   {
