@@ -7,9 +7,10 @@ type NavbarProps = {
 };
 
 const items = [
-  { href: "#services", label: "Services" },
-  { href: "#process", label: "Process" },
-  { href: "#contact", label: "Contact" },
+  { href: "/about", label: "About" },
+  { href: "/#services", label: "Services" },
+  { href: "/#process", label: "Process" },
+  { href: "/#contact", label: "Contact" },
 ];
 
 const Navbar = ({ onBook }: NavbarProps) => {
@@ -30,7 +31,7 @@ const Navbar = ({ onBook }: NavbarProps) => {
       <div className={`nav-backdrop${scrolled ? " show" : ""}`} />
 
       <header className={`navbar${scrolled ? " scrolled" : ""}`}>
-        <a href="#top" className="nav-brand" onClick={handleNavClick}>
+        <a href="/" className="nav-brand" onClick={handleNavClick}>
           <img
             src={logoMark}
             alt="Delgender Communications logo"
