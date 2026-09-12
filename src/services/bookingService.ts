@@ -50,7 +50,7 @@ export const createBooking = async (
   dto: CreateBookingDto,
 ): Promise<BookingDto> => {
   try {
-    const response = await api.post<BookingDto>("/api/bookings/create", dto);
+    const response = await api.post<BookingDto>("/api/v1/bookings/create", dto);
     return response.data;
   } catch (error) {
     if (axios.isAxiosError(error)) {
@@ -69,7 +69,7 @@ export const createBooking = async (
 
 export const getBookingById = async (id: number): Promise<BookingDto> => {
   try {
-    const response = await api.get<BookingDto>(`/api/bookings/${id}`);
+    const response = await api.get<BookingDto>(`/api/v1/bookings/${id}`);
     return response.data;
   } catch (error) {
     const status = axios.isAxiosError(error)
@@ -87,7 +87,7 @@ export const getAllBookings = async (
 ): Promise<PagedResultDto<BookingDto>> => {
   try {
     const response = await api.get<PagedResultDto<BookingDto>>(
-      "/api/bookings",
+      "/api/v1/bookings",
       {
         params: { page, pageSize },
       },
