@@ -9,6 +9,7 @@ import AppointmentForm from "./components/AppointmentForm";
 import HomePage from "./pages/HomePage";
 import AboutPage from "./pages/AboutPage";
 import LegalPage from "./pages/LegalPage";
+import { trackPageView } from "./services/analyticsService";
 
 /** allows the "book an appointment" popup to be opened directly from an
  external link, e.g. https://your-domain.com/?book=1
@@ -41,7 +42,15 @@ const App = () => {
     if (!location.hash) window.scrollTo(0, 0);
   }, [location.pathname, location.hash]);
 
-  const openAppointment = () => setShowAppointment(true);
+  // record a page view whenever the route changes
+  useEffect(() => {
+    trackPageView(location.pathname);
+  }, [location.pathname]);
+
+  const openAppointment = () => {
+    setShowAppointment(true);
+    trackPageView("/booking");
+  };
   const closeAppointment = () => setShowAppointment(false);
 
   return (
