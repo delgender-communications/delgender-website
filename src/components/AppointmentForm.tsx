@@ -102,6 +102,7 @@ const AppointmentForm = ({ onClose }: AppointmentFormProps) => {
       jobTitle: (formData.get("jobTitle") as string) || undefined,
       companyName: (formData.get("company") as string) || "",
       email: (formData.get("email") as string) || "",
+      phoneNumber: (formData.get("phone") as string) || "",
       industry: (formData.get("industry") as string) || "",
       helpWith: selectedNeeds.join(", ") || "General Inquiry",
       problemDescription: (formData.get("challenge") as string) || "",
