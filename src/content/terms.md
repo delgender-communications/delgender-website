@@ -160,4 +160,4 @@ If you have questions regarding these Terms or the website, contact:
 
 Delgender Communications<br>
 Email: delgendercommunications@gmail.com<br>
-Website: delgendercommunications.co.za
+Website: https://delgendercommunications.co.za

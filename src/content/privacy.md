@@ -171,4 +171,4 @@ If you have questions about this Privacy Policy or how Delgender Communications 
 
 Delgender Communications<br>
 Email: delgendercommunications@gmail.com<br>
-Website: delgendercommunications.co.za
+Website: https://delgendercommunications.co.za
