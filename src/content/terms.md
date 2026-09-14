@@ -31,13 +31,13 @@ You agree to use this website lawfully and responsibly.
 
 You must not:
 
-Use the website for fraudulent, unlawful, or malicious purposes<br>
-Attempt to gain unauthorised access to the website, systems, databases, or accounts<br>
-Interfere with the operation or security of the website<br>
-Introduce malicious software, code, or other harmful material<br>
-Scrape, copy, reproduce, or redistribute website content without permission<br>
-Submit false, misleading, or impersonated information<br>
-Use the website in a way that could damage Delgender Communications or its users
+- Use the website for fraudulent, unlawful, or malicious purposes<br>
+- Attempt to gain unauthorised access to the website, systems, databases, or accounts<br>
+- Interfere with the operation or security of the website<br>
+- Introduce malicious software, code, or other harmful material<br>
+- Scrape, copy, reproduce, or redistribute website content without permission<br>
+- Submit false, misleading, or impersonated information<br>
+- Use the website in a way that could damage Delgender Communications or its users
 
 We reserve the right to restrict or terminate access to the website where we reasonably believe these Terms have been violated.
 
@@ -81,11 +81,11 @@ We make reasonable efforts to ensure that information published on the website i
 
 However, we do not guarantee that all website content will always be:
 
-Complete<br>
-Accurate<br>
-Current<br>
-Available<br>
-Free from errors
+- Complete<br>
+- Accurate<br>
+- Current<br>
+- Available<br>
+- Free from errors
 
 We may update, remove, or change website content at any time without prior notice.
 
@@ -115,12 +115,12 @@ The website may occasionally be unavailable because of maintenance, updates, tec
 
 To the maximum extent permitted by applicable law, Delgender Communications will not be liable for losses or damages arising from:
 
-Your inability to access or use the website<br>
-Website interruptions or technical failures<br>
-Reliance on general information published on the website<br>
-Third-party websites or services<br>
-Unauthorised access caused by circumstances outside our reasonable control<br>
-Loss or corruption of information transmitted through the internet
+- Your inability to access or use the website<br>
+- Website interruptions or technical failures<br>
+- Reliance on general information published on the website<br>
+- Third-party websites or services<br>
+- Unauthorised access caused by circumstances outside our reasonable control<br>
+- Loss or corruption of information transmitted through the internet
 
 Nothing in these Terms excludes or limits liability where doing so would be unlawful.
 

@@ -25,14 +25,14 @@ Information you provide to us
 
 When you contact us, request information, or submit a booking or appointment request, you may provide information such as:
 
-Full name<br>
-Email address<br>
-Telephone number<br>
-Company or organisation name<br>
-Preferred appointment date and time<br>
-Selected meeting type<br>
-Information included in your message or booking request<br>
-Any other information you voluntarily provide to us
+- Full name<br>
+- Email address<br>
+- Telephone number<br>
+- Company or organisation name<br>
+- Preferred appointment date and time<br>
+- Selected meeting type<br>
+- Information included in your message or booking request<br>
+- Any other information you voluntarily provide to us
 
 Please do not submit sensitive or unnecessary personal information through forms on this website unless it is specifically requested and necessary for the service you are requesting.
 
@@ -48,10 +48,10 @@ We use limited website analytics to understand how visitors use our website and 
 
 Our analytics system may record:
 
-The page or route visited<br>
-The date and time of the visit<br>
-A randomly generated visitor identifier<br>
-The referring page or website, where available
+- The page or route visited<br>
+- The date and time of the visit<br>
+-A randomly generated visitor identifier<br>
+- The referring page or website, where available
 
 The visitor identifier used by our website is designed to provide a simple way of distinguishing visits during a limited period. It is not intended to identify you personally.
 
@@ -69,15 +69,15 @@ Local storage and similar technologies may also be used to remember necessary we
 
 We may use information collected through the website to:
 
-Respond to enquiries and messages<br>
-Process and manage appointment requests<br>
-Communicate with you regarding bookings or enquiries<br>
-Send appointment confirmations or other necessary service-related communications<br>
-Provide and improve our services<br>
-Maintain and improve the website<br>
-Understand general website usage<br>
-Protect the website, our business, and users from fraud, abuse, or security threats<br>
-Comply with applicable legal and regulatory obligations
+- Respond to enquiries and messages<br>
+- Process and manage appointment requests<br>
+- Communicate with you regarding bookings or enquiries<br>
+- Send appointment confirmations or other necessary service-related communications<br>
+- Provide and improve our services<br>
+- Maintain and improve the website<br>
+- Understand general website usage<br>
+- Protect the website, our business, and users from fraud, abuse, or security threats<br>
+- Comply with applicable legal and regulatory obligations
 
 We will not use your personal information for purposes unrelated to those described in this Privacy Policy without an appropriate legal basis or, where required, your consent.
 
@@ -95,12 +95,12 @@ We may use third-party service providers to operate parts of our website and bus
 
 These providers may process information on our behalf where necessary to provide their services. Examples may include:
 
-Website hosting providers<br>
-Database hosting providers<br>
-Email delivery providers<br>
-Domain and DNS providers<br>
-Cloud infrastructure providers<br>
-Security and infrastructure services
+- Website hosting providers<br>
+- Database hosting providers<br>
+- Email delivery providers<br>
+- Domain and DNS providers<br>
+- Cloud infrastructure providers<br>
+- Security and infrastructure services
 
 _Vercel, Railway, and Resend_
 
@@ -124,22 +124,22 @@ We do not sell your personal information.
 
 We may disclose information where reasonably necessary:
 
-To employees, contractors, or authorised personnel who need it to perform their duties<br>
-To service providers operating systems on our behalf<br>
-Where required by law, regulation, court order, or governmental authority<br>
-Where necessary to protect our rights, property, security, or users<br>
-In connection with a merger, acquisition, restructuring, or sale of relevant business assets, where applicable
+- To employees, contractors, or authorised personnel who need it to perform their duties<br>
+- To service providers operating systems on our behalf<br>
+- Where required by law, regulation, court order, or governmental authority<br>
+- Where necessary to protect our rights, property, security, or users<br>
+- In connection with a merger, acquisition, restructuring, or sale of relevant business assets, where applicable
 
 10. Your Privacy Rights
 
 Depending on applicable law, you may have rights concerning your personal information, including the right to:
 
-Request access to personal information we hold about you<br>
-Request correction of inaccurate information<br>
-Request deletion of information where legally applicable<br>
-Object to or restrict certain processing<br>
-Withdraw consent where processing is based on consent<br>
-Lodge a complaint with the relevant data-protection authority<br>
+- Request access to personal information we hold about you<br>
+- Request correction of inaccurate information<br>
+- Request deletion of information where legally applicable<br>
+- Object to or restrict certain processing<br>
+- Withdraw consent where processing is based on consent<br>
+- Lodge a complaint with the relevant data-protection authority<br>
 
 Requests relating to your personal information can be sent to:
 
