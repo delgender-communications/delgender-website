@@ -50,7 +50,7 @@ Our analytics system may record:
 
 - The page or route visited<br>
 - The date and time of the visit<br>
--A randomly generated visitor identifier<br>
+- A randomly generated visitor identifier<br>
 - The referring page or website, where available
 
 The visitor identifier used by our website is designed to provide a simple way of distinguishing visits during a limited period. It is not intended to identify you personally.
@@ -102,7 +102,7 @@ These providers may process information on our behalf where necessary to provide
 - Cloud infrastructure providers<br>
 - Security and infrastructure services
 
-_Vercel, Railway, and Resend_
+_Providers incl.: Vercel, Railway, and Resend._
 
 We expect third-party service providers handling personal information on our behalf to process that information appropriately and in accordance with applicable privacy and data-protection requirements.
 
