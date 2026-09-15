@@ -89,7 +89,7 @@
 
 @media (max-width: 640px) {
   .legal-container {
-    padding: 120px 0 80px;
+    padding: 120px 5% 80px;
   }
 
   .legal-content h1 {
