@@ -112,6 +112,7 @@
 /* services */
 .services {
   padding: 60px 0 90px;
+  scroll-margin-top: 90px;
 }
 
 .services-grid {
@@ -165,6 +166,7 @@
 .process {
   padding: 60px 0 90px;
   border-top: 1px solid var(--border);
+  scroll-margin-top: 90px;
 }
 
 .process-grid {

@@ -1,5 +1,6 @@
 import "./Footer.css";
 import { FiInstagram, FiLinkedin, FiFacebook } from "react-icons/fi";
+import { FaWhatsapp } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import logoMark from "../assets/logo-mark.png";
 
@@ -48,6 +49,14 @@ const Footer = ({ onBook }: FooterProps) => {
             aria-label="Facebook"
           >
             <FiFacebook className="social-icon" />
+          </a>
+          <a
+            href="https://wa.me/27606196707"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="WhatsApp"
+          >
+            <FaWhatsapp className="social-icon" />
           </a>
         </div>
 

@@ -37,9 +37,21 @@ const App = () => {
     }
   }, []);
 
-  // jump to top on every route change
+  // scroll to top or to hash target on route/hash change
   useEffect(() => {
-    if (!location.hash) window.scrollTo(0, 0);
+    if (location.hash) {
+      const id = location.hash.slice(1);
+      // small delay so the target section has rendered (esp. when coming from another page)
+      const t = setTimeout(() => {
+        const el = document.getElementById(id);
+        if (el) {
+          el.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
+      }, 80);
+      return () => clearTimeout(t);
+    } else {
+      window.scrollTo({ top: 0, behavior: "instant" });
+    }
   }, [location.pathname, location.hash]);
 
   // record a page view whenever the route changes
