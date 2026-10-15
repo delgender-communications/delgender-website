@@ -114,6 +114,9 @@ const HomePage = ({ onBook }: HomePageProps) => {
           Book a free introductory call and let's talk about where your brand
           is, and where it could be.
         </p>
+        <button type="button" className="btn-primary cta-btn" onClick={onBook}>
+          Book an Appointment
+        </button>
       </section>
     </div>
   );
